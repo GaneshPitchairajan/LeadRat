@@ -1,7 +1,7 @@
 package com.E_Commerce.Controller;
 
 import com.E_Commerce.Model.Category;
-import com.E_Commerce.Service.CategoryService;
+import com.E_Commerce.Service.ServiceInterface.CategoryService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
